@@ -1,0 +1,12 @@
+{
+  "code": "boneneedle",
+  "class": "boneneedle",
+  "creativeinventory": {
+    "general": [
+      "*"
+    ]
+  },
+  "texture": {
+    "base": "item/boneneedle"
+  }
+}

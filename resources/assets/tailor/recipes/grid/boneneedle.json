@@ -1,0 +1,24 @@
+{
+  "ingredientPattern": "S,K,B",
+  "width": 1,
+  "height": 3,
+  "ingredients": {
+    "S": {
+      "type": "item",
+      "code": "game:stone-*"
+    },
+    "K": {
+      "type": "item",
+      "code": "game:knife-*",
+      "isTool": true
+    },
+    "B": {
+      "type": "item",
+      "code": "game:bone"
+    }
+  },
+  "output": {
+    "type": "item",
+    "code": "boneneedle"
+  }
+}

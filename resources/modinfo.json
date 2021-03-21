@@ -1,0 +1,14 @@
+{
+  "type": "Code",
+  "side": "Universal",
+  "modid": "tailor",
+  "name": "Tailor",
+  "authors": [
+    "goxmeor"
+  ],
+  "description": "Craft clothes using flax and a bone needle",
+  "version": "0.1.0",
+  "dependency": {
+    "game": ""
+  }
+}
